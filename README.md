@@ -6,6 +6,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Node.Js
 - 💬 Ask me about games, movies and Music
 - 📫 How to reach me: bmontilorusso
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I Love The 90'
-    
